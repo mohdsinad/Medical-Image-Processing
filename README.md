@@ -5,16 +5,13 @@ This repository serves as a comprehensive guide and toolkit for processing image
 
 ## Notebooks
 - DICOM Processor: Introduction to DICOM file format, reading, writing, and metadata extraction.
-- NIfTI Processor: Overview of NIfTI file format, data structure, and basic operations.
-- NumPy/TIFF Processor: Overview of the respective file formats and basic operations.
+- NIfTI Processor: Overview of NIfTI file format, reading, writing and data structure.
 - Medical Image Processor: Covers techniques like normalization, resizing, and filtering for medical images. Also covers fundamental computer vision operations applied to medical imaging.
 
 ## Contribution
 Contributions to this project are welcome! Please fork the repository and submit a pull request with your proposed changes. Areas for contribution include:
 
 - Additional preprocessing techniques
-- Advanced visualization methods
-- Performance optimizations
 - Documentation improvements
 
 ## License
